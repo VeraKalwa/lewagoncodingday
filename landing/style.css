@@ -1,0 +1,73 @@
+body{
+  background-color: white;
+  color: green;
+  margin:0px 0px;
+  text-align: center;
+}
+
+h1{
+
+color: #4f81c7;
+font-size: 24px;
+font-weight: bold;
+font-family: font-family: 'Playfair Display', serif;
+text-align: center;
+border: 10px dashed #F2A467;
+	}
+
+h2{
+
+color: #64c4ed;
+font-size: 20px;
+font-weight: lighter;
+font-family: Courier;
+text-align: center;
+	}
+
+p{
+
+color: #64c4ed;
+font-size: 20px;
+font-weight: lighter;
+font-family: Courier;
+text-align: center;
+	}
+
+a{
+color: blue;
+	}
+
+a:hover{
+color: #f0d78c;
+	}
+
+.my-card{
+text-align: center;
+/*height: 300px;*/
+/*width: 300px;
+*/}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+
+
+#banner{
+text-align: center;
+}
+
+.list-inline{
+text-align: center;
+}
+
+#visual{
+text-align: center;
+/*width: 100vw;
+*/}
+
+#footer a {
+  color: #64c4ed;
+  font-size: 15px;
+}
+
